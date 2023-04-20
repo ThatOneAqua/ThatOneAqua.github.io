@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+body
+{
+	margin: 200px;
+	padding: 0px;
+	background-color:black;
+	color:#3ecefe;
+	font-family: OCR A;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+li
+{
+	font-size: 28px;
+	width: 900px;
+	text-align: left;
+}
+
+#title
+{
+	text-align: center;
+	font-size: 80px;
+	text-decoration: underline;
+ 	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+}
+#subtitle
+{	
+	font-size: 50px;
+	text-decoration: underline;
+	color: #5a329d;
+}
+
+#aboutmeimage
+{
+	float:right;
+}
+
+#sitelink
+{
+	font-size: 40px;
+}
+
+#sonaRefText
+{	
+	font-size: 40px;
+	text-align: left;
+}
+
